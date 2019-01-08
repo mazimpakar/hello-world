@@ -1,13 +1,13 @@
 # Hello-World
 
 ## Authors
-- [Mazimpaka Rose](https://github.com/mazimpakar/hello-world.git)
+- [Mazimpaka Rose] (https://github.com/mazimpakar/hello-world.git)
 - Add your clickable username here. It should point to your GitHub account. 
 
 ## Project setup instructions
 To start using this project use the following commands:
 
-- `git clone https://github.com/moringaschool/hello-world.git`
+- `git clone https://github.com/moringaschool/hello-world.git`s
 - `cd hello-world`
 - `atom .`
 
